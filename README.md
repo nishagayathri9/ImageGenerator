@@ -6,8 +6,6 @@ Welcome to the AI-Powered Story Generator repository! This project uses advanced
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![openapi initiative](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
@@ -15,8 +13,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
-
+papappa
 
 ## Features
 
@@ -28,6 +25,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Usage/Examples
 
+-- add image showing example -- 
 ```javascript
 import Component from 'my-project'
 
